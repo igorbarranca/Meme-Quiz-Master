@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2fe3b2125661cc4aa47f829035c3716, type: 3}
+  m_Name: FortniteOrPUBG_Q1
+  m_EditorClassIdentifier: 
+  question: Fortinait il BaBaG?
+  answers:
+  - Fortinait
+  - BaBaG
+  buttonSprites:
+  - {fileID: 21300000, guid: 2a8c1dd3c615983458bc77ddcf98dd87, type: 3}
+  - {fileID: 21300000, guid: 0e32ecb447c9bdf4a8acadb2046c9c88, type: 3}
+  <BackgroundSprite>k__BackingField: {fileID: 21300000, guid: c0e6fff46b643a34e9cf6d141809de39, type: 3}
+  <QuestionSFX>k__BackingField: {fileID: 8300000, guid: 27df20ae12538dd4bbaf8f5185ac506c, type: 3}
+  <CorrectAnswerSFX>k__BackingField: {fileID: 8300000, guid: 39d3e9b8374829a429bb9d0cd2e299f5, type: 3}
+  <WrongAnswerSFX>k__BackingField: {fileID: 8300000, guid: fb54cd0f8fce2f544b9fdb14728d1104, type: 3}
+  correctAnswerIndex: 1

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2fe3b2125661cc4aa47f829035c3716, type: 3}
+  m_Name: HyperXOrGTAV_Q6
+  m_EditorClassIdentifier: 
+  question: HybarXXXX il GrandefDorDD?
+  answers:
+  - HybarXXXX
+  - GrandefDorDD
+  buttonSprites:
+  - {fileID: 21300000, guid: e23a5d9d442ea03488a993fbb8b2db4a, type: 3}
+  - {fileID: 21300000, guid: 01e5c574fa2af304aa897f54055a1aad, type: 3}
+  <BackgroundSprite>k__BackingField: {fileID: 21300000, guid: bed01594f8a526747ae3df61b4034a49, type: 3}
+  <QuestionSFX>k__BackingField: {fileID: 8300000, guid: 249fa43683b604a459d86f24886505b4, type: 3}
+  <CorrectAnswerSFX>k__BackingField: {fileID: 8300000, guid: 6df05e2e56e8fc240a03b0f68c3c8be0, type: 3}
+  <WrongAnswerSFX>k__BackingField: {fileID: 8300000, guid: fb54cd0f8fce2f544b9fdb14728d1104, type: 3}
+  correctAnswerIndex: 1
